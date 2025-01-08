@@ -11,6 +11,16 @@ In this file I read in data from an excel file, cleaned and formated the data, a
   <li><a href = "https://github.com/pweave5/Internship-Work/blob/main/Sierra_Cycles_Line_Chart.pdf">Monthly Production Line Chart</a></li>
 </ul>
 
+</br>
+<li><a href = "https://github.com/pweave5/Internship-Work/blob/main/RailCar_Visualization.R">RailCar_Visualization.R</a></li>
+</br>
+
+In this file, I read in data from an excel file, cleaned it, and created a bar chart of average values, while also overlaying individual data point. Below is an example of what was produced.
+
+<ul>
+  <li><a href = "https://github.com/pweave5/Internship-Work/blob/main/Railcar_Loading_Times.pdf">Bar Chart with Individual Data Points</li>
+</ul>
+
   
 </ul>
 
