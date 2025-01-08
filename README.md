@@ -1,5 +1,5 @@
 # Internship-Work
-This repository contains some of the work I did in the summer of 2024. The files are R files I used to create data visualizations for some business processes. 
+This repository contains some of the work I did as a data analyst intern in the summer of 2024. The files are R files I used to create data visualizations for some business processes. 
 
 <ul>
 <li><a href = "https://github.com/pweave5/Internship-Work/blob/main/ShearCyclesVisualization.R">ShearCyclesVisualization.R</a>
